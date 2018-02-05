@@ -1,0 +1,16 @@
+{
+	"token": "NDA5ODM3Nzg3ODQ0NTc1MjUz.DVkwQA.qU9ghL-TbPRzqnBKHWmMvQFcJKc",
+	"servers": [
+		{
+			"id": "409837787844575253",
+			"default": true,
+			"ignoreChannels": [
+				"members-Only",
+				"testing"
+			]
+		},
+		{
+			"id": "409776103885111306"
+		}
+	]
+}

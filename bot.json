@@ -1,0 +1,255 @@
+{
+	"presenceStatus": "online",
+	"connected": true,
+	"inviteURL": null,
+	"_events": {},
+	"_eventsCount": 5,
+	"servers": {
+		"409776103885111306": {
+			"verification_level": 0,
+			"unavailable": false,
+			"system_channel_id": "409776103885111308",
+			"splash": null,
+			"roles": {
+				"409776103885111306": {
+					"position": 0,
+					"name": "@everyone",
+					"mentionable": false,
+					"managed": false,
+					"id": "409776103885111306",
+					"hoist": false,
+					"color": 0,
+					"_permissions": 104324161
+				},
+				"409862730942775328": {
+					"position": 1,
+					"name": "d-zone bot",
+					"mentionable": false,
+					"managed": true,
+					"id": "409862730942775328",
+					"hoist": false,
+					"color": 0,
+					"_permissions": 8
+				}
+			},
+			"region": "us-west",
+			"owner_id": "349652357182652417",
+			"name": "bot practice",
+			"mfa_level": 0,
+			"members": {
+				"245520198109495296": {
+					"roles": [],
+					"mute": false,
+					"deaf": false,
+					"id": "245520198109495296",
+					"joined_at": 1517768812201,
+					"color": null,
+					"status": "online"
+				},
+				"349652357182652417": {
+					"roles": [],
+					"mute": false,
+					"deaf": false,
+					"id": "349652357182652417",
+					"joined_at": 1517768636526,
+					"color": null,
+					"status": "idle"
+				},
+				"409837787844575253": {
+					"roles": [
+						"409862730942775328"
+					],
+					"nick": null,
+					"mute": false,
+					"deaf": false,
+					"id": "409837787844575253",
+					"joined_at": 1517789290031,
+					"color": null,
+					"status": "online"
+				}
+			},
+			"member_count": 3,
+			"large": false,
+			"joined_at": "2018-02-05T00:08:10.031948+00:00",
+			"id": "409776103885111306",
+			"icon": "3fb794cbcf4af578eafed56eca399f10",
+			"features": [],
+			"explicit_content_filter": 0,
+			"emojis": {},
+			"default_message_notifications": 0,
+			"channels": {
+				"409776103885111307": {
+					"members": {},
+					"permissions": {
+						"user": {},
+						"role": {}
+					},
+					"guild_id": "409776103885111306",
+					"user_limit": 0,
+					"type": 4,
+					"position": 0,
+					"name": "Text Channels",
+					"id": "409776103885111307",
+					"bitrate": 64000
+				},
+				"409776103885111308": {
+					"members": {},
+					"permissions": {
+						"user": {},
+						"role": {}
+					},
+					"guild_id": "409776103885111306",
+					"type": 0,
+					"topic": null,
+					"position": 0,
+					"parent_id": "409776103885111307",
+					"name": "general",
+					"last_message_id": "409862731395497994",
+					"id": "409776103885111308"
+				},
+				"409776104308604928": {
+					"members": {},
+					"permissions": {
+						"user": {},
+						"role": {}
+					},
+					"guild_id": "409776103885111306",
+					"user_limit": 0,
+					"type": 4,
+					"position": 0,
+					"name": "Voice Channels",
+					"id": "409776104308604928",
+					"bitrate": 64000
+				},
+				"409776104308604929": {
+					"members": {},
+					"permissions": {
+						"user": {},
+						"role": {}
+					},
+					"guild_id": "409776103885111306",
+					"user_limit": 0,
+					"type": 2,
+					"position": 0,
+					"parent_id": "409776104308604928",
+					"name": "General",
+					"id": "409776104308604929",
+					"bitrate": 64000
+				}
+			},
+			"application_id": null,
+			"afk_timeout": 300,
+			"afk_channel_id": null,
+			"voiceSession": null,
+			"self_mute": false,
+			"self_deaf": false
+		}
+	},
+	"channels": {
+		"409776103885111307": {
+			"members": {},
+			"permissions": {
+				"user": {},
+				"role": {}
+			},
+			"guild_id": "409776103885111306",
+			"user_limit": 0,
+			"type": 4,
+			"position": 0,
+			"name": "Text Channels",
+			"id": "409776103885111307",
+			"bitrate": 64000
+		},
+		"409776103885111308": {
+			"members": {},
+			"permissions": {
+				"user": {},
+				"role": {}
+			},
+			"guild_id": "409776103885111306",
+			"type": 0,
+			"topic": null,
+			"position": 0,
+			"parent_id": "409776103885111307",
+			"name": "general",
+			"last_message_id": "409862731395497994",
+			"id": "409776103885111308"
+		},
+		"409776104308604928": {
+			"members": {},
+			"permissions": {
+				"user": {},
+				"role": {}
+			},
+			"guild_id": "409776103885111306",
+			"user_limit": 0,
+			"type": 4,
+			"position": 0,
+			"name": "Voice Channels",
+			"id": "409776104308604928",
+			"bitrate": 64000
+		},
+		"409776104308604929": {
+			"members": {},
+			"permissions": {
+				"user": {},
+				"role": {}
+			},
+			"guild_id": "409776103885111306",
+			"user_limit": 0,
+			"type": 2,
+			"position": 0,
+			"parent_id": "409776104308604928",
+			"name": "General",
+			"id": "409776104308604929",
+			"bitrate": 64000
+		}
+	},
+	"users": {
+		"245520198109495296": {
+			"username": "Kotoha",
+			"id": "245520198109495296",
+			"discriminator": "5857",
+			"bot": true,
+			"avatar": "b41c6e73efa409040659c3927007e75b",
+			"game": {
+				"type": 0,
+				"name": "kot help for commands! | 472 servers"
+			}
+		},
+		"349652357182652417": {
+			"username": "VampireKity",
+			"id": "349652357182652417",
+			"discriminator": "1024",
+			"avatar": "8cf1e1391b0199b02ea7d84a1a0bd8c6",
+			"bot": false,
+			"game": null
+		},
+		"409837787844575253": {
+			"username": "d-zone bot",
+			"id": "409837787844575253",
+			"discriminator": "0870",
+			"bot": true,
+			"avatar": null,
+			"game": null
+		}
+	},
+	"directMessages": {},
+	"internals": {
+		"oauth": {},
+		"version": "2.5.3",
+		"settings": {},
+		"token": "NDA5ODM3Nzg3ODQ0NTc1MjUz.DVkwQA.qU9ghL-TbPRzqnBKHWmMvQFcJKc",
+		"gatewayUrl": "wss://gateway.discord.gg/?encoding=json&v=6",
+		"sequence": 2,
+		"sessionID": "4748a48773210a584d415c10f48ed2d6"
+	},
+	"verified": true,
+	"username": "d-zone bot",
+	"mfa_enabled": false,
+	"id": "409837787844575253",
+	"email": null,
+	"discriminator": "0870",
+	"bot": true,
+	"avatar": null
+}
